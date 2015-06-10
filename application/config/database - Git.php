@@ -43,7 +43,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'SDG@Dfvnt67tr4';
+$db['default']['password'] = '';
 $db['default']['database'] = 'idsr_alert';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
